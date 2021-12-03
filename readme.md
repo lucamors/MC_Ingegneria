@@ -1,18 +1,34 @@
-# Tutorial
-
-## Metodo Monte Carlo per L'ingegneria
+# Tutorial - Metodo Monte Carlo per L'ingegneria
 
 ### Introduzione
 
-Breve tutorial sul Metodo Monte Carlo per L'ingegneria.
+Breve tutorial sul Metodo Monte Carlo con applicazioni per L'ingegneria.
 
 Contenuti:
 
 1. Introduzione al linguaggio Python
 2. Funzioni, Grafici e Interpolazioni in Python
-3. Introduzione al Metodo Monte Carlo
+3. Introduzione al Metodo Monte Carlo ed Esempi
 
-### Reference
+### Tutorial per l'installazione
+
+Per l'installazione di Python3 e delle librerie scientifiche Numpy, Scipy, Matplotlib e dell'ambiente interattivo jupyter
+vedere i seguenti riferimenti.
+
+Consigliato l'ambiente "conda":
+Windows : https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
+MacOS   : https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
+
+In generale basta cercare "install <libreria> <sistema-operativo>" su 
+google per trovare tra i primi risultati una risposta valida.
+
+Infine per poter leggere i notebooks interattivi installare JupyterLab:
+
+https://jupyterlab.readthedocs.io/en/stable/index.html
+
+
+
+### References
 
 #### Python & Scientific Libraries
 
@@ -23,4 +39,4 @@ Contenuti:
 
 #### Monte Carlo Methods
 
-1. 
+1. https://arxiv.org/pdf/1404.0209.pdf
